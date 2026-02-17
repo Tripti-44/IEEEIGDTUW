@@ -1,3 +1,2 @@
-# my_flutter_app
-
-A new Flutter project.
+IEEE IGDTUW
+MOBILE APPLICATION
